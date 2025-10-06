@@ -1,0 +1,10 @@
+C:\Users\Ali\Desktop\NTPP\KeyLogger\KeyLogger\KeyLogger\bin\Release\KeyLogger.exe.config
+C:\Users\Ali\Desktop\NTPP\KeyLogger\KeyLogger\KeyLogger\bin\Release\KeyLogger.exe
+C:\Users\Ali\Desktop\NTPP\KeyLogger\KeyLogger\KeyLogger\bin\Release\KeyLogger.pdb
+C:\Users\Ali\Desktop\NTPP\KeyLogger\KeyLogger\KeyLogger\obj\Release\KeyLogger.csproj.AssemblyReference.cache
+C:\Users\Ali\Desktop\NTPP\KeyLogger\KeyLogger\KeyLogger\obj\Release\KeyLogger.Form1.resources
+C:\Users\Ali\Desktop\NTPP\KeyLogger\KeyLogger\KeyLogger\obj\Release\KeyLogger.Properties.Resources.resources
+C:\Users\Ali\Desktop\NTPP\KeyLogger\KeyLogger\KeyLogger\obj\Release\KeyLogger.csproj.GenerateResource.cache
+C:\Users\Ali\Desktop\NTPP\KeyLogger\KeyLogger\KeyLogger\obj\Release\KeyLogger.csproj.CoreCompileInputs.cache
+C:\Users\Ali\Desktop\NTPP\KeyLogger\KeyLogger\KeyLogger\obj\Release\KeyLogger.exe
+C:\Users\Ali\Desktop\NTPP\KeyLogger\KeyLogger\KeyLogger\obj\Release\KeyLogger.pdb
